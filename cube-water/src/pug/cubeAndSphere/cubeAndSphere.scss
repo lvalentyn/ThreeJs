@@ -1,0 +1,14 @@
+@import '../../scss/vars';
+$value: 25vw;
+$cube-size: 2em;
+$rotate-speed: 40s;
+
+.cube-and-sphere {
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	color: black;
+
+}
